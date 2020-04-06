@@ -1,0 +1,14 @@
+body {
+	background: -webkit-linear-gradient(to top, #c0392b, #8e44ad);
+	background: linear-gradient(to top, #c0392b, #8e44ad);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.card{
+    margin:20px 0;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}

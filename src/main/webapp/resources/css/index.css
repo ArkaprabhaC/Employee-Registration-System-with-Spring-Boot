@@ -1,0 +1,15 @@
+body {
+	background: -webkit-linear-gradient(to top, #c0392b, #8e44ad);
+	background: linear-gradient(to top, #c0392b, #8e44ad);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+form {
+	background-color: #fafcfb;
+	-webkit-box-shadow: 0px 7px 11px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: 0px 7px 11px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: 0px 7px 11px 0px rgba(0, 0, 0, 0.75);
+}
